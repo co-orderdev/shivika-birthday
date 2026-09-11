@@ -264,4 +264,4 @@ export const videos: VideoAsset[] = [
   }
 ];
 
-export const pixelMemoryImage = "/images/pixel-memory.jpg";
+export const pixelMemoryImage = "images/pixel-memory.jpg";
