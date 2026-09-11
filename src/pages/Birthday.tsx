@@ -107,7 +107,7 @@ style={{
       <footer className="site-footer">
         <span>Made with love by mamu for Shivika</span>
         <span aria-hidden="true">✦</span>
-        <span>10th September 2026</span>
+        <span>10th September 2027</span>
       </footer>
     </div>
   );
