@@ -180,84 +180,84 @@ export const videos: VideoAsset[] = [
   },
   {
     id: "video-2",
-    src: "/videos/video-2.mp4",
+    src: "videos/video-2.mp4",
     title: "Big laughter",
     caption: "The happiest sound in the house.",
     poster: "images/carousel-1.jpg"
   },
   {
     id: "video-3",
-    src: "/videos/video-3.mp4",
+    src: "videos/video-3.mp4",
     title: "PARTYYYYY!!🎊",
     caption: "mamu's first birthday with shivika.",
     poster: "images/carousel-2.jpg"
   },
   {
     id: "video-4",
-    src: "/videos/video-4.mp4",
+    src: "videos/video-4.mp4",
     title: "Little dancer",
     caption: "A little rhythm and a lot of joy.",
     poster: "images/carousel-3.jpg"
   },
   {
     id: "video-5",
-    src: "/videos/video-5.mp4",
+    src: "videos/video-5.mp4",
     title: "Family time",
     caption: "MUMMA:GUSSA NHI..., SHIVIKA:AYYYEEEEE!.",
     poster: "images/carousel-4.jpg"
   },
   {
     id: "video-6",
-    src: "/videos/video-6.mp4",
+    src: "videos/video-6.mp4",
     title: "That expression",
     caption: "A face full of personality.",
     poster: "images/carousel-5.jpg"
   },
   {
     id: "video-7",
-    src: "/videos/video-7.mp4",
+    src: "videos/video-7.mp4",
     title: "SONA MAT!!😪",
     caption: "heheheheh😁.",
     poster: "images/carousel-6.jpg"
   },
   {
     id: "video-8",
-    src: "/videos/video-8.mp4",
+    src: "videos/video-8.mp4",
     title: "cartoon with mama!🫠",
     caption: "Mama and Shivika together!",
     poster: "images/carousel-7.jpg"
   },
   {
     id: "video-9",
-    src: "/videos/video-9.mp4",
+    src: "videos/video-9.mp4",
     title: "JOY TIME!!",
     caption: "The moments we wish we could keep forever.",
     poster: "images/carousel-8.jpg"
   },
   {
     id: "video-10",
-    src: "/videos/video-10.mp4",
+    src: "videos/video-10.mp4",
     title: "one...two...three...GO!!",
     caption: "Small hands, big imagination.",
     poster: "images/carousel-9.jpg"
   },
   {
     id: "video-11",
-    src: "/videos/video-11.mp4",
+    src: "videos/video-11.mp4",
     title: "stickersss , wow 😍",
     caption: "tatatatatatatat🗣️.",
     poster: "images/carousel-10.jpg"
   },
   {
     id: "video-12",
-    src: "/videos/video-12.mp4",
+    src: "videos/video-12.mp4",
     title: "balloonnnn🎈",
     caption: "ye phut kyuu nhi raha!🤔",
     poster: "images/gallery-1.jpg"
   },
   {
     id: "video-13",
-    src: "/videos/video-13.mp4",
+    src: "videos/video-13.mp4",
     title: "Birthday girl, mama's girl",
     caption: "",
     poster: "images/gallery-2.jpg"
