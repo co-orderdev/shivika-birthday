@@ -38,7 +38,7 @@ export function Birthday() {
     <div className="birthday-site">
       <audio
   ref={audioRef}
-  src="/music/birthday-music.mp3"
+  src="music/birthday-music.mp3"
   loop
   preload="auto"
 />
