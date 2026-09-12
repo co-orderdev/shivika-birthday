@@ -27,7 +27,7 @@ export function PixelMemory() {
           been a gift.
         </p>
         <div className="final-message">
-          <span>Happy 2nd Birthday, Shivika.</span>
+          <span>Happy 3rd Birthday, Shivika.</span>
           <strong>
             Keep smiling, keep growing, and keep making the world brighter.
           </strong>
