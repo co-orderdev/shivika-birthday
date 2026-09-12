@@ -21,7 +21,7 @@ export function PixelMemory() {
 
       <div className="pixel-copy">
         <p className="eyebrow">A memory to keep</p>
-        <h2 id="finale-title">Two Years of Shivika</h2>
+        <h2 id="finale-title">Three Years of Shivika</h2>
         <p>
           From tiny beginnings to a world of smiles, every day with you has
           been a gift.
